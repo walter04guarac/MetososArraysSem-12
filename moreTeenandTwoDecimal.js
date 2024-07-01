@@ -12,8 +12,3 @@ function filtrarYRedondear(nums) {
   const resultado = filtrarYRedondear(nums);
   alert(resultado);  
   
-//Crear un array de objetos con la informacion de las asignaturas de 
-//la carrera de Desarrollo de software.  Crear una función que reciba
-// como parámetro el array de las asignaturas y un numero que indique
-// el nivel. La función debe retornar solo las asignaturas que
-// pertenecen a ese nivel. 
